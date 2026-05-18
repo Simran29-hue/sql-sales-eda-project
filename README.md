@@ -221,3 +221,76 @@ The project also creates a reusable analytical SQL View:
 
 ```sql
 - 'gold.report_customers'
+```
+## View Features
+Customer demographics
+Age groups
+Customer segments
+Recency analysis
+Lifetime sales metrics
+Average order value
+Average monthly spend
+Purpose
+
+Used for customer-level analytics and reporting.
+
+## 💡 Key SQL Concepts Used
+|Concept |	Usage|
+|---|---|
+|'DISTINCT' |	Identifying unique value|
+|'GROUP BY' |	Aggregation|
+|'ORDER BY' |	Ranking and sorting|
+|'LEFT JOIN' |	Combining fact and dimension tables|
+|'DATEDIFF()' |	Time calculations|
+|'GETDATE()' | Dynamic date analysis|
+|'UNION ALL'|	KPI summary reporting|
+|'ROW_NUMBER()' |	Ranking analysis|
+|'LAG()' |	Previous year comparison|
+|Window Functions |	Running totals and moving averages|
+|CTEs |	Structuring complex queries|
+|CASE | Statements	Segmentation logic|
+|SQL Views |	Reusable reporting layer|
+
+## 📈 Insights Generated
+
+This EDA project helps uncover:
+
+- Revenue-driving products
+- Top-performing customers
+- Sales growth patterns
+- Customer purchase behavior
+- Product performance trends
+- Revenue contribution analysis
+- Customer segmentation insights
+
+## 🎯 Learning Outcomes
+
+Through this project, I learned:
+
+- Performing structured EDA using SQL
+- Writing advanced SQL queries
+- Using window functions for analysis
+- Creating analytical SQL views
+- Applying segmentation and ranking logic
+- Generating business insights from raw data
+
+## 🙌 Acknowledgements
+
+This project was created while learning SQL and Data Analytics concepts with guidance from the SQL Ultimate Course.
+
+Special thanks to @Data with Baraa who simplify data analytics learning.
+
+## 👩‍💻 About Me
+
+I am Simran Kumari Singh, a B.Com graduate actively transitioning into the field of Data Analytics with a strong focus on building practical, job-ready skills.
+
+I specialize in using SQL for data exploration, analysis, and business insights, and I enjoy working with structured datasets to solve real-world business problems. Through hands-on projects, I am developing a strong understanding of how data supports decision-making in areas like sales, customers, and product performance.
+
+I have built this project to demonstrate my ability to:
+
+- Perform end-to-end Exploratory Data Analysis (EDA) using SQL
+- Work with fact and dimension tables in a data warehouse environment
+- Apply advanced SQL concepts such as window functions, CTEs, ranking, and segmentation
+- Convert raw data into meaningful business insights
+
+My goal is to grow as a Data Analyst and contribute to data-driven decision-making in a professional environment.
